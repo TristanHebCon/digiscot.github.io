@@ -4,9 +4,9 @@ title: Hebridean History in the Digital Age
 excerpt: Digital skills training events across Lewis and Harris
 lead: Hebridean Connections 
 website: http://www.hebrideanconnections.com/
-email: 
+email: info@hebrideanconnections.com
 twitter: 
-facebook: 
+facebook: https://www.facebook.com/hebrideanconnections
 start: April 2015
 end: March 2016
 award: £5400
